@@ -1,0 +1,8 @@
+<html> </html>
+Creates an HTML document
+<head> </head>
+Sets off the title and other info that is not displayed
+<body> </body>
+Sets off the visible portion of the document
+<title> </title>
+Puts name of the document in the titlebar;when bookmarking pages,this is what is bookmarked
